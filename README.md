@@ -2,9 +2,10 @@
 ## This program will measure the odds and average performance of a pair of stocks from open to close after an overnight gap.
 
 The user has 3 prompts to input.
-1) Input Stock 1 for the pair.
-2) Input Stock 2 for the pair.
-3) Input the overnight gap percentage
+1) Input Stock 1 for the pair. ![Screenshot 2024-10-31 125157](https://github.com/user-attachments/assets/97bf1c48-f808-4fe9-b317-d477e9e6ddfb)
+2) Input Stock 2 for the pair. ![Screenshot 2024-10-31 125205](https://github.com/user-attachments/assets/907a6d63-5303-44cb-82c8-3201d740918b)
+3) Input the overnight gap percentage ![Screenshot 2024-10-31 125216](https://github.com/user-attachments/assets/6795d792-a88c-4a83-a36a-c60632cd64c4)
+
 
 It is important to note that the user does not specify whether the gap is positive or negative. They just input the gap percentage in absolute terms. The output of the program will give odds and average performance for both negative and positive values. For example, pair StockA/StockB has an overnight gap of 3%. User will enter a '3' when prompted to input gap percentage. The final output of the program will show total and average performance, as well as odds for a gap of 3% as well as a gap of -3%.
 
@@ -14,3 +15,4 @@ The date needs to be adjusted to whatever the user's preference is in regards to
 
 ### Improvements for future version:
 Change the gap input to be able to take a postiive or negative gap percentage. That way user can specify if the gap was negative or positive, and the output can focus solely on that performance, rather than giving a performance for both negative and positive gaps. 
+
