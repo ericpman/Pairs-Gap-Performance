@@ -26,5 +26,5 @@ The goal of the program is to give a trader a probability basis for performance 
 The date needs to be adjusted to whatever the user's preference is in regards to start points and end points.
 
 ### Improvements for future version:
-Change the gap input to be able to take a postiive or negative gap percentage. That way user can specify if the gap was negative or positive, and the output can focus solely on that performance, rather than giving a performance for both negative and positive gaps. 
+Change the gap input to be able to take a postive or negative gap percentage. That way user can specify if the gap was negative or positive, and the output can focus solely on that performance, rather than giving a performance for both negative and positive gaps. 
 
