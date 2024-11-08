@@ -3,6 +3,11 @@
 ## Overview
 This program measures the odds and average performance of a selected stock pair from open to close after an overnight gap, offering insights for traders on potential performance based on specific overnight gap percentages.
 
+## Libraries
+pandas  
+matplotlib.pyplot  
+yfinance  
+
 ## Usage
 The program will prompt the user to enter the following inputs:
 
