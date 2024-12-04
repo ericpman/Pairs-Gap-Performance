@@ -5,7 +5,6 @@ This program measures the odds and average performance of a selected stock pair 
 
 ## Libraries
 pandas  
-matplotlib.pyplot  
 yfinance  
 
 ## Usage
